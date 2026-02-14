@@ -21,3 +21,6 @@ npm run electron-build
 ```bash
 npm run make
 ```
+
+### Установить приложение
+[![Скачать](https://img.shields.io/badge/Скачать-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/твой-логин/timer/releases/latest)
