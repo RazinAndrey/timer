@@ -16,10 +16,8 @@ npm start
 npm run electron-build
 ```
 
-### Собрать готовый .exe для Windows
+### Упаковка приложения
 
 ```bash
-npm install electron-packager -g
-npm install electron-packager -D
-electron-packager . --platform=win32
+npm run make
 ```
